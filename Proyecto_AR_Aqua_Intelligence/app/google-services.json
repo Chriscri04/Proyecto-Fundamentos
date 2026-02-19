@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889457512824",
+    "project_id": "ar-aqua-intelligence-callan",
+    "storage_bucket": "ar-aqua-intelligence-callan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889457512824:android:0f7aaf707508e54bbbf88d",
+        "android_client_info": {
+          "package_name": "com.callan.ar.aquaintelligence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszxgzqtJgegy4wRMX55kKVubz-TkDITk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
